@@ -9,5 +9,11 @@
     ],
     "require": {
 
-    }
+    },
+    "autoload": {
+        "psr-0": {
+            "ZanoxApi": "src/"
+        }
+    },
+    "minimum-stability": "dev"
 }
