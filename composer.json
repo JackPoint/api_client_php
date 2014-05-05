@@ -1,0 +1,13 @@
+{
+    "name": "jackhage/zanoxapi",
+    "description": "Zanox API with composer support",
+    "authors": [
+        {
+            "name": "Zanox",
+            "email": "rba@zanox.com"
+        }
+    ],
+    "require": {
+
+    }
+}
